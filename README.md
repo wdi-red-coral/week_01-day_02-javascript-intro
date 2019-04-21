@@ -20,6 +20,7 @@
 ![images/js-1](images/js-1.png)
 
 # Variables 
+
 ![images/js-11](images/js-11.png)
 ![images/js-11a](images/js-11a.png)
 ![images/js-11b](images/js-11b.png)
@@ -28,7 +29,9 @@
 ![images/js-var2](images/js-var2.png)
 ![images/js-var3](images/js-var3.png)
 ![images/js-var4](images/js-var4.png)
-
+Note that I don't use let after the first line.
+This is because the variable has already been declared.
+![images/js-var5](images/js-var5.png)
 ![images/js-12](images/js-12.png)
 ![images/js-13](images/js-13.png)
 ![images/js-14](images/js-14.png)
