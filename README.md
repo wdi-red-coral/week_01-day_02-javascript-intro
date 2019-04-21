@@ -35,6 +35,14 @@
 ![images/js-15](images/js-15.png)
 ![images/js-16](images/js-16.png)
 ![images/js-17](images/js-17.png)
+## Class activity
+## My Future Cat
+- Write a variable called `age`.
+- Write a variable called `name`.
+- Write a variable called `color`.
+- Then write a variable  called `cat` and assign the previous variables along with a sting.
+- Then call the the variable `cat` with `console.log`.
+- Result will be: `My future cat's name is Strawberry, he is 86 years old, and his color is Orange.`
 ![images/js-18](images/js-18.png)
 ![images/js-19](images/js-19.png)
 ![images/js-19a](images/js-19a.png)
