@@ -1,16 +1,28 @@
-# Javascript Intro
 
-![images/js-1](images/js-1.png)
-![images/js-2](images/js-2.png)
-![images/js-3](images/js-3.png)
-![images/js-4](images/js-4.png)
-![images/js-5](images/js-5.png)
+# Pseudocode Intro
 ![images/js-6](images/js-6.png)
 ![images/js-7](images/js-7.png)
 ![images/js-8](images/js-8.png)
 ![images/js-9](images/js-9.png)
 ![images/js-10](images/js-10.png)
 ![images/js-10a](images/js-10a.png)
+# Javascript Intro
+
+# JS Background & History
+![images/js_0](images/js_0.png)
+![images/js_1_](images/js_1_.png)
+![images/js_2](images/js_2.png)
+![images/js_3](images/js_3.png)
+![images/js_4](images/js_4.png)
+![images/js_5](images/js_5.png)
+![images/js-6](images/js-6.png)
+![images/js-7](images/js-7.png)
+![images/js-1](images/js-1.png)
+<!-- ![images/js-2](images/js-2.png) -->
+<!-- ![images/js-3](images/js-3.png) -->
+<!-- ![images/js-4](images/js-4.png)
+![images/js-5](images/js-5.png) -->
+# Variables 
 ![images/js-11](images/js-11.png)
 ![images/js-11a](images/js-11a.png)
 ![images/js-11b](images/js-11b.png)
