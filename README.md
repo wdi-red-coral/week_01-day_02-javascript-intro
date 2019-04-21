@@ -27,11 +27,9 @@
 ![images/js-var1](images/js-var1.png)
 ![images/js-var2](images/js-var2.png)
 ![images/js-var3](images/js-var3.png)
-
-![images/js-12](images/js-12.png)
-
 ![images/js-var4](images/js-var4.png)
 
+![images/js-12](images/js-12.png)
 ![images/js-13](images/js-13.png)
 ![images/js-14](images/js-14.png)
 ![images/js-15](images/js-15.png)
