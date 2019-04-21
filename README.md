@@ -10,7 +10,7 @@
 
 # JS Background & History
 ![images/js_0](images/js_0.png)
-![images/js_1](images/js_1_.png)
+![images/js_1](images/js_1.png)
 ![images/js_2](images/js_2.png)
 ![images/js_3](images/js_3.png)
 ![images/js_4](images/js_4.png)
