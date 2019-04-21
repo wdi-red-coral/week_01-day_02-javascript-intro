@@ -29,6 +29,7 @@
 ![images/js-var2](images/js-var2.png)
 ![images/js-var3](images/js-var3.png)
 ![images/js-var4](images/js-var4.png)
+![images/js-var4a](images/js-var4a.png)
 Note that I don't use let after the first line.
 This is because the variable has already been declared.
 ![images/js-var5](images/js-var5.png)
