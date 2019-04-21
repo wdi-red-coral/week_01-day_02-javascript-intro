@@ -24,7 +24,12 @@
 ![images/js-11a](images/js-11a.png)
 ![images/js-11b](images/js-11b.png)
 ![images/js-11c](images/js-11c.png)
-![images/js-11d](images/js-11d.png)
+![images/js_var_1](images/js_var_1.png)
+![images/js_var_2](images/js_var_2.png)
+![images/js_var_3](images/js_var_3.png)
+![images/js_var_4](images/js_var_4.png)
+
+
 ![images/js-12](images/js-12.png)
 ![images/js-13](images/js-13.png)
 ![images/js-14](images/js-14.png)
