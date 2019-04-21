@@ -48,6 +48,10 @@ This is because the variable has already been declared.
 - Then call the the variable `cat` with `console.log(cat)`.
 - Result will be: `My future cat's name is Strawberry, he is 86 years old, and his color is Orange.`
 
+## Calculate the area
+To find the area of a rectangle multiply its height by its width.
+A = H * W
+Result will be : The area of rectangle is '40.20'
 
 ![images/js-18](images/js-18.png)
 ![images/js-19](images/js-19.png)
