@@ -24,13 +24,14 @@
 ![images/js-11a](images/js-11a.png)
 ![images/js-11b](images/js-11b.png)
 ![images/js-11c](images/js-11c.png)
-![images/js-var-1](images/js-var-1.png)
-![images/js_var_2](images/js_var_2.png)
-![images/js_var_3](images/js_var_3.png)
-![images/js_var_4](images/js_var_4.png)
-
+![images/js-var1](images/js_var1.png)
+![images/js-var2](images/js-var2.png)
+![images/js-var3](images/js-var3.png)
 
 ![images/js-12](images/js-12.png)
+
+![images/js-var4](images/js-var4.png)
+
 ![images/js-13](images/js-13.png)
 ![images/js-14](images/js-14.png)
 ![images/js-15](images/js-15.png)
