@@ -1,7 +1,7 @@
 # Javascript Intro
 
-<!-- ![images/js-1](images/js-1.png)
-![images/js-2](images/js-2.png) -->
+![images/js-1](images/js-1.png)
+![images/js-2](images/js-2.png)
 ![images/js-3](images/js-3.png)
 ![images/js-4](images/js-4.png)
 ![images/js-5](images/js-5.png)
