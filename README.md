@@ -15,8 +15,8 @@
 ![images/js_3](images/js_3.png)
 ![images/js_4](images/js_4.png)
 ![images/js_5](images/js_5.png)
-![images/js-6](images/js-6.png)
-![images/js-7](images/js-7.png)
+![images/js-6](images/js_6.png)
+![images/js_7](images/js_7.png)
 ![images/js-1](images/js-1.png)
 <!-- ![images/js-2](images/js-2.png) -->
 <!-- ![images/js-3](images/js-3.png) -->
