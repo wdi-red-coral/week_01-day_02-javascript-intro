@@ -18,10 +18,7 @@
 ![images/js-6](images/js_6.png)
 ![images/js_7](images/js_7.png)
 ![images/js-1](images/js-1.png)
-<!-- ![images/js-2](images/js-2.png) -->
-<!-- ![images/js-3](images/js-3.png) -->
-<!-- ![images/js-4](images/js-4.png)
-![images/js-5](images/js-5.png) -->
+
 # Variables 
 ![images/js-11](images/js-11.png)
 ![images/js-11a](images/js-11a.png)
