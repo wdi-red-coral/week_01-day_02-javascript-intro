@@ -53,6 +53,7 @@ To find the area of a rectangle multiply its height by its width.
 A = H * W
 Result will be : The area of rectangle is '40.20'
 
+## Conditions
 ![images/js-18](images/js-18.png)
 ![images/js-19](images/js-19.png)
 ![images/js-19a](images/js-19a.png)
