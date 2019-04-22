@@ -34,7 +34,17 @@ JavaScript Reserved Words: https://www.w3schools.com/js/js_reserved.asp
 Note that I don't use let after the first line.
 This is because the variable has already been declared.
 ![images/js-var5](images/js-var5.png)
+
+![images/js-type1](images/js-type1.png)
+![images/js-type2](images/js-type2.png)
+![images/js-type3](images/js-type3.png)
 ![images/js-12](images/js-12.png)
+![images/js-type4](images/js-type4.png)
+![images/js-type5](images/js-type5.png)
+![images/js-type6](images/js-type6.png)
+![images/js-type7](images/js-type7.png)
+![images/js-type8](images/js-type8.png)
+
 ![images/js-13](images/js-13.png)
 ![images/js-14](images/js-14.png)
 ![images/js-15](images/js-15.png)
