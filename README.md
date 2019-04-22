@@ -37,7 +37,6 @@ This is because the variable has already been declared.
 
 ![images/js-type1](images/js-type1.png)
 ![images/js-type2](images/js-type2.png)
-![images/js-type3](images/js-type3.png)
 ![images/js-12](images/js-12.png)
 ![images/js-type4](images/js-type4.png)
 ![images/js-type5](images/js-type5.png)
@@ -48,8 +47,25 @@ This is because the variable has already been declared.
 ![images/js-13](images/js-13.png)
 ![images/js-14](images/js-14.png)
 ![images/js-15](images/js-15.png)
-![images/js-16](images/js-16.png)
-![images/js-17](images/js-17.png)
+
+## String Methods and Properties
+
+```js
+let name = "mike";
+let capitalName = name.toUpperCase(); // ?
+
+name.length // ?
+```
+
+## String Concatenation
+```js
+
+let firstName = "Mike";
+let lastName = "Finneran";
+
+let fullName = firstName + " " + lastName;
+```
+
 ## Class activity
 ## My Future Cat
 - Write a variable called `age`.
