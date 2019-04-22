@@ -67,7 +67,16 @@ Result will be : The area of rectangle is '40.20'
 ## Conditions
 ![images/js-18](images/js-18.png)
 ![images/js-19](images/js-19.png)
-![images/js-19a](images/js-19a.png)
+
+![images/js-con1](images/js-con1.png)
+![images/js-con2](images/js-con2.png)
+![images/js-con3](images/js-con3.png)
+![images/js-con4](images/js-con4.png)
+![images/js-con5](images/js-con5.png)
+![images/js-con6](images/js-con6.png)
+![images/js-con7](images/js-con7.png)
+
+
 ![images/js-20](images/js-20.png)
 ![images/js-21](images/js-21.png)
 ![images/js-22](images/js-22.png)
