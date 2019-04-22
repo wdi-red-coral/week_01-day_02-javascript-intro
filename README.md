@@ -27,6 +27,7 @@
 ![images/js-11c](images/js-11c.png)
 ![images/js-var1](images/js-var1.png)
 ![images/js-var2](images/js-var2.png)
+https://www.w3schools.com/js/js_reserved.asp
 ![images/js-var3](images/js-var3.png)
 ![images/js-var4](images/js-var4.png)
 ![images/js-var4a](images/js-var4a.png)
