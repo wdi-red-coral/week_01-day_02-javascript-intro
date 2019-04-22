@@ -82,13 +82,6 @@ Result will be : The area of rectangle is '40.20'
 ![images/js-con6](images/js-con6.png)
 ![images/js-con7](images/js-con7.png)
 
-
-
-![images/js-22](images/js-22.png)
-![images/js-23](images/js-23.png)
-![images/js-24](images/js-24.png)
-![images/js-25](images/js-25.png)
-
 ![images/js-27](images/js-27.png)
 ![images/js-27a](images/js-27a.png)
 
@@ -98,9 +91,7 @@ Result will be : The area of rectangle is '40.20'
 ![images/js-28a](images/js-28a.png)
 ![images/js-28b](images/js-28b.png)
 ![images/js-28c](images/js-28c.png)
-![images/js-28d](images/js-28d.png)
 ![images/js-28e](images/js-28e.png)
-![images/js-28f](images/js-28f.png)
 ![images/js-29](images/js-29.png)
 
 # Fizzbuzz
