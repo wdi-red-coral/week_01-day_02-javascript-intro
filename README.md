@@ -8,6 +8,7 @@
 ![images/js-10a](images/js-10a.png)
 # Javascript Intro
 
+
 # JS Background & History
 ![images/js_0](images/js_0.png)
 ![images/js_1](images/js_1.png)
